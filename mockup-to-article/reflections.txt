@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I have done a bit research and learned about <strike> tag for the line being crossed. 
+* To create the sentence italic, bold and creating links are easy.
+* Difficult part so far is to keep the different paragraph in same space without using <br> tag. I still need to find information for this. 
+* Tried to read again and again to understand what the author wants me to write, and tried to code again. Find the things that I don't know in google. 
