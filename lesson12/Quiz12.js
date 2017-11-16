@@ -8,9 +8,10 @@ var checkBalance = true;
 var isActive = false;
 
 // your code goes here
+// This is the right answer below
 if (checkBalance) {
     if (isActive && balance > 0) {
-        console.log(`Your balance is $ ${balance} .`);
+        console.log("Your balance is $" + balance + ".");
     } else {
         if (isActive) {
             if (balance === 0) {
