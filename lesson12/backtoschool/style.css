@@ -1,0 +1,42 @@
+button {
+    /* height: 60px; */
+    /* width: 100px; */
+    background-color: rgb(166, 250, 9);
+    border: 3px solid blueviolet;
+    margin: 3rem;
+    font-size: 30px;
+    padding: 1rem;
+    border-radius: 30px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    width: 800px;
+    height: 500px;
+}
+
+.Doc {
+    background-color: green;
+}
+
+.Tea {
+    background-color: plum;
+}
+
+.Law {
+    background-color: rgb(136, 67, 136);
+}
+
+.Pil {
+    background-color: rgb(224, 73, 13);
+}
+
+.Ast {
+    background-color: orange;
+}
+
+.Pro {
+    background-color: cornflowerblue;
+}

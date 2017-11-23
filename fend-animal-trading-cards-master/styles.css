@@ -1,32 +1,49 @@
 /* add your CSS here */
 
+.mainpage-deco {
+    border: solid 3px rgb(94, 94, 9);
+    background-color: black;
+    color: white;
+    width: 400px;
+}
+
 img {
     width: 300px;
-    padding-left: 3em;
-    border: 1px rgb(2, 84, 131) solid;
+    /* border: 1px rgb(2, 84, 131) solid; */
+    padding-left: 3rem;
 }
 
 li {
     font-weight: bold;
     list-style-type: none;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 ul {
-    border: 1px rgb(2, 84, 131) solid;
+    /* border: 1px rgb(2, 84, 131) solid; */
 }
 
 .interesting-fact {
     font-style: italic;
-    border: 1px rgb(2, 84, 131) solid;
-    padding-left: 3em;
+    /* border: 1px rgb(2, 84, 131) solid; */
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 h3 {
-    border: 1px rgb(2, 84, 131) solid;
-    padding-left: 3em;
+    display: flex;
+    justify-content: center;
+    /* border: 1px rgb(2, 84, 131) solid; */
 }
 
 p {
-    border: 1px rgb(2, 84, 131) solid;
-    padding-left: 3em;
+    /* border: 1px rgb(2, 84, 131) solid; */
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+* {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }

@@ -33,3 +33,19 @@ switch (education) {
     }
     console.log(`In 2015, a person with ${education} earned an average of $${salary.toLocaleString("en-US")}/year.`);
     
+
+
+
+var mood = "happy";
+var action;
+
+switch (mood) {
+    case "happy":
+        action = "happy";
+        break;
+    case "sad":
+        action = "sad";
+        break;
+}
+console.log(`I am so ${action} today.`);
+
